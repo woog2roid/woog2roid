@@ -16,7 +16,7 @@
 
 ### ✨ Summary
 - 🌱 I’m currently interested in Back End, Front End and Data Science
-- 💡 I regularly organize what I learned on [my blog](woog2roid.github.io). 
+- 💡 I regularly organize what I learned on [my blog](https://woog2roid.github.io). 
 - ⚡ Fun facts: I love weight training and martial arts 
 
 ## 💫 Github Stats
