@@ -1,5 +1,5 @@
 
-# Hi There 👋, I'm GuiJung Woo([woog2roid](github.com/woog2roid))💻
+# Hi There 👋, I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻
 ## ✏️A passionate newbie developer
 ### Korea University Department of Computer Science and Engineering
 [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)](https://www.instagram.com/woog_0121/)
