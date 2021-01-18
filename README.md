@@ -20,9 +20,10 @@
 - ⚡ Fun facts: I love weight training and martial arts 
 
 ## 💫 Github Stats
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=woog2roid&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
+<table><tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=woog2roid&show_icons=true&count_private=true&hide_border=true" style="height: 150px" /></td>
 
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woog2roid&hide_border=true&layout=compact" style="width: 84%" />
-</td></tr></table>  
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woog2roid&hide_border=true&layout=compact" style="height: 150px" /></td>
+</tr></table>  
