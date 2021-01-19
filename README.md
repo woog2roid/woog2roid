@@ -1,6 +1,6 @@
 
 # Hi There 👋 I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻
-## ✏️ A passionate newbie developer
+## ✏️A passionate newbie developer
 ### 📚 Korea University Department of Computer Science and Engineering
 
 <a href="https://github.com/woog2roid" target="_blank">
