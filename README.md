@@ -1,7 +1,7 @@
 
 # Hi There 👋, I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻
 ## ✏️A passionate newbie developer
-### Korea University Department of Computer Science and Engineering
+### 📚Korea University Department of Computer Science and Engineering
 
 <a href="https://github.com/woog2roid" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
