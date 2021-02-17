@@ -1,7 +1,7 @@
 
 # Hi There 👋 I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻
 ## ✏️A passionate newbie developer
-### 📚 Korea University Department of Computer Science and Engineering
+__📚 Korea University Department of Computer Science and Engineering__
 
 <a href="https://github.com/woog2roid" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
@@ -9,12 +9,8 @@
 <a href="mailto:wooguijung@korea.ac.kr" target="_blank">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/woog_0121" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
 
-### ✨ Summary
+## ✨ Summary
 - 🌱 I’m currently interested in Back End, Front End and Data Science
 - 💡 I regularly organize what I learned on my [old blog](https://woog2roid.github.io/old-blog) and [TIL repository](https://github.com/woog2roid/TIL). 
 - ⚡ Fun facts: I love weight training and martial arts 
