@@ -1,11 +1,12 @@
+_Hi There 👋 I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻_
 
-# Hi There 👋 I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻
 ## ✏️A passionate newbie developer
 - 📚 Korea University Department of Computer Science and Engineering
 - 🌱 I’m currently interested in overall field of computer science and engineering
 - 💡 I regularly organize what I've learned and experienced on my [old blog](https://woog2roid.github.io/old-blog) and [TIL repository](https://github.com/woog2roid/TIL)
 - ⚡ My own charateristics: I love weight training and martial arts 
 
+Contact here:  
 <a href="https://github.com/woog2roid" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
