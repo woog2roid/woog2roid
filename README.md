@@ -7,11 +7,12 @@ _👋 Hi There I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻_
 - ⚡ My own charateristics: I love weight training and martial arts 
 
 💬 Contact here:  
+
 <a href="https://github.com/woog2roid" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin: 8px 0px 3px 0px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 3px;" />
 </a>
 <a href="mailto:wooguijung@korea.ac.kr" target="_blank">
- <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt=gmail style="margin: 8px 0px 3px 0px;" />
+ <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt=gmail style="margin-bottom: 3px;" />
 </a>
 
 ## 💫 Github Stats
