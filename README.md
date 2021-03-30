@@ -14,9 +14,6 @@ _👋 Hi There I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻_
 <a href="mailto:wooguijung@korea.ac.kr" target="_blank">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt=gmail style="margin-bottom: 3px;" />
 </a>
-<a href="mailto:woog2roidg@gmail.com" target="_blank">
- <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt=gmail style="margin-bottom: 3px;" />
-</a>
 
 ## 💫 Github Stats
 <table><tr>
