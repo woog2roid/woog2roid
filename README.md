@@ -1,6 +1,5 @@
-_👋 Hi There I'm GuiJung Woo([woog2roid](https://github.com/woog2roid))💻_
+<img src="https://user-images.githubusercontent.com/54667577/171152282-3b45faaa-102d-40a5-85b8-35789fef2920.png" alt="profileImage"/>
 
-## ✏️ A passionate newbie developer
 - 📚 Korea University Department of Computer Science and Engineering
 - 🌱 I’m currently interested in overall field of computer science and engineering
 - 💡 I regularly organize what I've learned and experienced on my [old blog](https://woog2roid.github.io/old-blog) and [my repository](https://github.com/woog2roid/TIL)
