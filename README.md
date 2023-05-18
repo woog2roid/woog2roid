@@ -1,4 +1,4 @@
-## GuiJung Woo (woog2roid)
+# GuiJung Woo (woog2roid)
 
 I am interested in creating great services, and I am open to learning skills are required in the process. And I have deployed projects on my personal domain(woog2roid.dev). As developed several web services, I came to study to understand the full-stack web development pipeline.
 
