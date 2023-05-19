@@ -1,8 +1,6 @@
 # GuiJung Woo (woog2roid)
 
-I am interested in creating great services, and I am open to learning skills are required in the process. And I have deployed projects on my personal domain(woog2roid.dev). As developed several web services, I came to study to understand the full-stack web development pipeline.
-
-Currently I want to expand knowledge and experience to the overall field. To achieve this, I am participating in several projects with various professions such as AI researcher/developer, designer, PM.
+I am interested in creating great services, and I am open to learning skills are required in the process. And I have deployed projects on my personal domain(woog2roid.dev). As developed several web services, I came to study to understand the full-stack web development pipeline. Currently I want to expand knowledge and experience to the overall field.
 
 ### Who am I? What I've done?
 
