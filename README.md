@@ -8,5 +8,5 @@ _more details, in my [blog](https://woog2roid.dev)_
 
 - Korea University, Department of Computer Science (2019.03. - )
 - Google Developer Student Clubs, Korea University(Seoul), CORE (2022.09. - 2023.08.)
-- Google Developer Student Clubs, Korea University(Seoul), LEAD (2022.08. - )
+- Google Developer Student Clubs, Korea University(Seoul), LEAD (2023.08. - )
 - 42 Seoul Cardet (2023.03. - )
