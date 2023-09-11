@@ -1,11 +1,13 @@
-## GuiJung Woo (woog2roid)
+## GuiJung Woo ([@woog2roid](https://woog2roid.dev))
 
-I am interested in creating great services, and I am open to learning skills are required in the process. And I have deployed projects on my personal domain(woog2roid.dev). As developed several web services, I came to study to understand the full-stack web development pipeline. Currently I want to expand knowledge and experience to the overall field.
+_**"A developer who believes great services can enrich our lives"**_
+
+> _I am interested in creating great services, and I am open to learning skills are required in the process. Currently I am interested in MSA, MLops, DevOps, and etc._
 
 ### Who am I? What I've done?
 
-- Korea University, Department of Computer Science (2019.03. - )
-- Google Developer Student Clubs, Korea University(Seoul), CORE (2022.09. - 2023.08.)
-- Google Developer Student Clubs, Korea University(Seoul), LEAD (2023.08. - )
+- __Korea University__, Department of __Computer Science__ (2019.03. - )
+- __Google Developer Student Clubs__, Korea University(Seoul), __CORE__ (2022.09. - 2023.08.)
+- __Google Developer Student Clubs__, Korea University(Seoul), __LEAD__ (2023.08. - )
 - 42 Seoul Cardet (2023.03. - )
-- more details, in my [blog](https://woog2roid.dev)
+- more details, in my __[blog](https://woog2roid.dev)__
