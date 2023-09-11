@@ -2,7 +2,7 @@
 
 ### _**"A man who believes great services can enrich our lives"**_
 
-> _I am interested in creating great services. And I am open to learning skills required in development process. The skills means not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my blog for recording my growth._
+> _I am interested in creating great services. And I am open to learning skills required in development process. The skills mean not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my blog for recording my growth._
 
 ### Who am I? What I've done?
 
