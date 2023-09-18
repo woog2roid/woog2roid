@@ -8,7 +8,7 @@
 
 - __Korea University__, Department of __Computer Science__ (2019.03. - )
 - __Google Developer Student Clubs__, Korea University(Seoul), __CORE__ (2022.09. - 2023.08.)
-- __Google Developer Student Clubs__, Korea University(Seoul), __LEAD__ (2023.08. - )
 - __42 Seoul__ Cardet (2023.03. - )
+- __Google Developer Student Clubs__, Korea University(Seoul), __LEAD__ (2023.08. - )
 - more details, in my __[blog](https://woog2roid.dev)__
 
