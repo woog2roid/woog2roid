@@ -2,7 +2,7 @@
 
 ### _**"A man who believes great services can enrich our lives"**_
 
-> _I am interested in creating great services. And I am open to learning skills required in development process. The skills mean not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my blog for recording my growth._
+> _I am interested in creating great services. And I am open to learning skills required in development process. The skills mean not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my`` blog for recording my growth._
 
 ### Who am I? What I've done?
 
@@ -10,5 +10,5 @@
 - __Google Developer Student Clubs__, Korea University(Seoul), __CORE__ (2022.09. - 2023.08.)
 - __42 Seoul__ Cardet (2023.03. - )
 - __Google Developer Student Clubs__, Korea University(Seoul), __LEAD__ (2023.08. - )
-- more details, in my __[blog](https://woog2roid.dev)__
+- more details, in my <u>__[blog](https://woog2roid.dev)__</u>
 
