@@ -6,9 +6,8 @@
 
 ### Who am I? What I've done?
 
-- __Korea University__, Department of __Computer Science__ (2019.03. - )
-- __Google Developer Student Clubs__, Korea University(Seoul), __CORE__ (2022.09. - 2023.08.)
-- __42 Seoul__ Cardet (2023.03. - )
-- __Google Developer Student Clubs__, Korea University(Seoul), __LEAD__ (2023.08. - )
-- more details, in my *__[blog](https://woog2roid.dev)__*
-
+- **Korea University**, Department of **Computer Science** | 고려대학교 정보대학 컴퓨터학과 (2019.03. - )
+- **Google Developer Student Clubs**, Korea University(Seoul), **CORE** | 구글학생개발자클럽 고려대학교(서울) 코어 (2022.09. - 2023.08.)
+- **42 Seoul** Cardet | 42서울 카뎃 (2023.03. - )
+- **Google Developer Student Clubs**, Korea University(Seoul), **LEAD** | 구글학생개발자클럽 고려대학교(서울) 리드 (2023.08. - )
+- more details, in my _**[blog](https://woog2roid.dev)**_
