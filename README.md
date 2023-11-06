@@ -1,4 +1,4 @@
-## GuiJung Woo ([@woog2roid](https://woog2roid.dev))
+## GuiJung Woo (@woog2roid)
 
 ### _**"A man who believes great services can enrich our lives"**_
 
