@@ -1,10 +1,10 @@
 ## GuiJung Woo (@woog2roid)
 
-### _**"A man who believes great services can enrich our lives"**_
+### _"A man who believes great services can enrich our lives"_
 
 > _I am interested in creating great services. And I am open to learning skills required in development process. The skills mean not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my blog for recording my growth._
 
-### Who am I? What I've done?
+### _Who am I? What I've done?_
 
 - Undergraduate @ **Korea University**, Department of **Computer Science** _(2019.03 - )_
   - **Google Developer Student Clubs**, Korea University(Seoul) **CORE** _(2022.09. - 2023.08.)_
