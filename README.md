@@ -1,4 +1,4 @@
-## GuiJung Woo(@woog2roid)
+## GuiJung Woo (@woog2roid)
 
 - **Contact Me: _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ | _[Email](mailto:wooguijung@korea.ac.kr)_**
 - _for more details, check my **[blog](https://woog2roid.dev)**_
