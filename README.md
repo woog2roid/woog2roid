@@ -1,9 +1,6 @@
 ## Guijung Woo (@woog2roid)
 
-### _Contact Me:_
-
-- **by _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ or _[Email](mailto:wooguijung@korea.ac.kr)_**
-- **For more details about me, check my _[blog](https://woog2roid.dev)_**
+Contact me by _**[LinkedIn](https://www.linkedin.com/in/woog2roid/)**_ or _**[Email](mailto:wooguijung@korea.ac.kr)**_. For more details, you can check my _**[blog](https://woog2roid.dev)**_
 
 ### _"A man who believes great services can enrich our lives"_
 
