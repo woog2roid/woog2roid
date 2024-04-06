@@ -1,8 +1,8 @@
 ## Guijung Woo (@woog2roid)
 
-#### **Contact me by _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ or _[Email](mailto:wooguijung@korea.ac.kr)_. For more details, you can check my _[blog](https://woog2roid.dev)_**
+### **Contact me by _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ or _[Email](mailto:wooguijung@korea.ac.kr)_. For more details, you can check my _[blog](https://woog2roid.dev)_**
 
-### _"A man who believes great services can enrich our lives"_
+#### _"A man who believes great services can enrich our lives"_
 
 > _I am interested in creating great services. And I am open to learning skills required in development process. The skills mean not only computer science but also team management, cooperation, service itself, etc. I also write down my experiences in my blog for recording my growth._
 
