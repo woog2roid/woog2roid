@@ -9,6 +9,7 @@
 ### _Who am I? What I've done?_
 
 - Undergraduate @ **Korea University**, Department of **Computer Science** _(2019.03 - )_
-  - **Google Developer Student Clubs**, Korea University(Seoul) **CORE** _(2022.09. - 2023.08.)_
+  - **Google Developer Student Clubs**, Korea University(Seoul) **LEAD** _(2023.08. - 2024.07.)_
   - 42 Seoul Cardet _(2023.03. - 2023.11.)_
-  - **Google Developer Student Clubs**, Korea University(Seoul) **LEAD** _(2023.08. - )_
+  - **Google Developer Student Clubs**, Korea University(Seoul) **CORE** _(2022.09. - 2023.08.)_
+  
