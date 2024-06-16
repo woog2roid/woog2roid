@@ -4,8 +4,8 @@
 
 **_"A man who believes great services can enrich our lives"_**
 
-> _I am interested in creating great services. And I am open to learning skills required in the process. The skills mean not only computer science but also soft skills such as team management, cooperation, service itself, etc. I also write down my experiences in my **[blog](https://woog2roid.dev)** for recording my growth._
+_I am interested in creating great services. And I am open to learning skills required in the process. The skills mean not only computer science but also soft skills such as team management, cooperation, service itself, etc. I also write down my experiences in my **[blog](https://woog2roid.dev)** for recording my growth._
 
-#### Contact me by _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ or _[Email](mailto:wooguijung@korea.ac.kr)_.
+**Contact me by _[LinkedIn](https://www.linkedin.com/in/woog2roid/)_ or _[Email](mailto:wooguijung@korea.ac.kr)_.**
 
 </div>
